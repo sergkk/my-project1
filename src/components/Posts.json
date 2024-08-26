@@ -1,0 +1,49 @@
+{
+    "posts": [
+            {
+                "name": "Alu",
+                "altname": "new",
+                "photo": "../img/1pic.webp",
+                "src": "../img/1pic.webp",
+                "alt": "picture",
+                "descr": "lorem",
+                "id": "1"
+            },
+            {
+                "name": "Ken",
+                "altname": "uio;",
+                "photo": "../img/2pic.webp",
+                "src": "../img/2pic.webp",
+                "alt": "picture",
+                "descr": "new photo",
+                "id": "2"
+            },
+            {
+                "name": "Kyrt",
+                "altname": "Tomth",
+                "photo": "../img/3pic.webp",
+                "src": "../img/3pic.webp",
+                "alt": "how is true",
+                "descr": "lorem",
+                "id": "3"
+            },
+            {
+                "name": "Tom",
+                "altname": "Loter;",
+                "photo": "../img/4pic.webp",
+                "src": "../img/4pic.webp",
+                "alt": "oldpic",
+                "descr": "hornest",
+                "id": "4"
+            },
+            {
+                "name": "Yup",
+                "altname": "Terro",
+                "photo": "../img/5pic.webp",
+                "src": "../img/5pic.webp",
+                "alt": "hi",
+                "descr": "lorem",
+                "id": "5"
+            }
+             ]
+}
